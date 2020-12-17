@@ -1,0 +1,29 @@
+*{margin: 0;}
+html{font-size: 10px;}
+body{font-size: 1rem;}
+a{text-decoration: none;}
+
+header{height: 9.5rem;text-align: center;background-color: #FA4734;}
+header > .logo{padding-top: 3.3rem;}
+
+section > .keyvisual{text-align: center;height: 63.9rem;background-color: #FDD058;}
+section > .keyvisual > .m_keyvisual{padding-top: 3rem;}
+
+section > .profile{background-color: #FA4734; height: 102.6rem;}
+section > .profile > .m_profile{width: 41.4rem;text-align: center;padding-top: 2.5rem; }
+
+.pf1, .pf2, .pf3, .pf4, .pf5 .pf6 .pf7 .pf8 .pf9{text-align: center;}
+
+section > .pf1{background-color: #FDD058;height: 80.5rem;}
+section > .pf2{background-color: #20A688;height: 80.5rem;}
+section > .pf3{background-color: #357EA4;height: 80.5rem;}
+section > .pf4{background-color: #FDD058;height: 80.5rem;}
+section > .pf5{background-color: #20A688;height: 80.5rem;}
+section > .pf6{background-color: #357EA4;height: 80.5rem;}
+section > .pf7{background-color: #FDD058;height: 80.5rem;}
+section > .pf8{background-color: #20A688;height: 80.5rem;}
+section > .pf9{background-color: #357EA4;height: 80.5rem;}
+
+
+footer {background-color: #FA4734;height: 4.5rem;}
+footer > .footer{padding-top: 1.8rem;margin: auto;text-align: center;}
